@@ -1,2 +1,2 @@
 # gameboyColor
-An attempt to recreate the Gameboy Color on FPGA. Goal to learn more about CPU architecture
+An attempt to recreate the Gameboy Color on FPGA with the goal to learn more about CPU architecture
